@@ -1,0 +1,17 @@
+.fibonacci-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.fibonacci-number {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  display: inline-block;
+}
